@@ -8,6 +8,11 @@
 // last('what time are we climbing up the volcano'), ['time', 'are', 'we', 'the', 'climbing', 'volcano', 'up', 'what']
 // last('take me to semynak'), ['take', 'me', 'semynak', 'to'] 
 
+
+
+//solution
+
+
 function last(x) {
     //split the string into an array of words
     let words = x.split(' ');
